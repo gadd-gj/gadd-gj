@@ -7,23 +7,30 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 <div>
   <h3>Skills:</h3>
   <div>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> Intermedio
+    <img src="https://img.shields.io/badge/java-Intermedio-black?style=for-the-badge&logo=java" /> 
   </div>
   <div>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> Básico
+    <img src="https://img.shields.io/badge/javascript-basico-black?style=for-the-badge&logo=javascript" />
   </div>
   <div>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" /> Básico
+    <img src="https://img.shields.io/badge/bootstrap4-basico-black?style=for-the-badge&logo=bootstrap" /> 
   </div>
   <div>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> Básico
+    <img src="https://img.shields.io/badge/html5-basico-black?style=for-the-badge&logo=html5" /> 
   </div>
   <div>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> Básico
+    <img src="https://img.shields.io/badge/linux-basico-black?style=for-the-badge&logo=linux" />
   </div>
   <div>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/ubuntu.svg" /> Básico
+    <img src="https://img.shields.io/badge/Ubuntu-basico-black?style=for-the-badge&logo=ubuntu" />
   </div>
+  <div>
+    <img src='https://img.shields.io/badge/spring_boot-basico-black?style=for-the-badge&logo=spring' />
+  </div>
+  <div>
+    <img src='https://img.shields.io/badge/docker-basico-black?style=for-the-badge&logo=docker' />
+  </div>
+  
 </div>
   
 
@@ -33,7 +40,7 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 - 📫 contactame:
 
 
-<img src='https://img.shields.io/badge/gmail-gaddielgomez15@gmail.com-red?style=for-the-badge&logo=gmail' > [<img src='https://img.shields.io/badge/Linkedin-Gaddiel%20G%C3%B3mez%20Jim%C3%A9nez-blue?style=for-the-badge&logo=linkedin' alt='linkedin' >](https://www.linkedin.com/in/gaddiel-gómez-jiménez-b66093196/)  
+<img src='https://img.shields.io/badge/gmail-gaddielgomez15@gmail.com-red?style=for-the-badge&logo=gmail' > [<img src='https://img.shields.io/badge/Linkedin-Gaddiel%20G%C3%B3mez%20Jim%C3%A9nez-blue?style=for-the-badge&logo=linkedin' alt='linkedin' >](https://www.linkedin.com/in/gaddiel-gómez-jiménez-b66093196/)    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gadd-gj)](https://github.com/ryo-ma/github-profile-trophy)
 
