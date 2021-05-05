@@ -5,11 +5,25 @@
 Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software.
 
 Skills:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
-
+<div>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+</div>
+<div>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
+</div>
+<div>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />
+</div>
+<div>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
+</div>
+<div>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
+</div>
+<div>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/ubuntu.svg" />
+</div>
+<hr />
 - 🔭 Actualmente estoy trabajando en proyectos personales 
 - 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
 - 🤔 Necesito ayuda en el desarrollo web 
