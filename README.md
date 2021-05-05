@@ -5,6 +5,8 @@
 Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software.
 
 Skills: JAVA / JAVASCRIPT / HTML / SPRING BOOT / BOOTSTRAP 4
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
 
 - 🔭 Actualmente estoy trabajando en proyectos personales 
 - 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
