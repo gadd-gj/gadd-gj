@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Gaddiel
 #### Estudiante universitario
-![Estudiante universitario](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software.
 
