@@ -4,9 +4,9 @@
 
 Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software.
 
-Skills: JAVA / JAVASCRIPT / HTML / SPRING BOOT
+Skills: JAVA / JAVASCRIPT / HTML / SPRING BOOT / BOOTSTRAP 4
 
-- 🔭 Actualmente esoty trabajando en proyectos personales 
+- 🔭 Actualmente estoy trabajando en proyectos personales 
 - 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
 - 🤔 Necesito ayuda en el desarrollo web 
 - 📫 contactame: gaddielgomez15@gmail.com 
