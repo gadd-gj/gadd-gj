@@ -30,10 +30,10 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 - 🔭 Actualmente estoy trabajando en proyectos personales 
 - 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
 - 🤔 Necesito ayuda en el desarrollo web 
-- 📫 contactame: gaddielgomez15@gmail.com 
+- 📫 contactame:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gadd-gj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gaddiel-gómez-jiménez-b66093196/)  
+<img src='https://img.shields.io/badge/gmail-gaddielgomez15@gmail.com-red?style=for-the-badge&logo=gmail' > [<img src='https://img.shields.io/badge/github-gaddiel-white?style=for-the-badge&logo=github' alt='github' >](https://github.com/gadd-gj)  [<img src='https://img.shields.io/badge/Linkedin-Gaddiel%20G%C3%B3mez%20Jim%C3%A9nez-blue?style=for-the-badge&logo=linkedin' alt='linkedin' >](https://www.linkedin.com/in/gaddiel-gómez-jiménez-b66093196/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gadd-gj)](https://github.com/ryo-ma/github-profile-trophy)
 
