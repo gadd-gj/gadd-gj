@@ -2,27 +2,30 @@
 #### Estudiante universitario
 
 
-Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software.
+Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Software.
 
-Skills:
 <div>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> Intermedio
+  <h3>Skills:</h3>
+  <div>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> Intermedio
+  </div>
+  <div>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> Básico
+  </div>
+  <div>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" /> Básico
+  </div>
+  <div>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> Básico
+  </div>
+  <div>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> Básico
+  </div>
+  <div>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/ubuntu.svg" /> Básico
+  </div>
 </div>
-<div>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> Básico
-</div>
-<div>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" /> Básico
-</div>
-<div>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> Básico
-</div>
-<div>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> Básico
-</div>
-<div>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/ubuntu.svg" /> Básico
-</div>
+  
 
 - 🔭 Actualmente estoy trabajando en proyectos personales 
 - 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
