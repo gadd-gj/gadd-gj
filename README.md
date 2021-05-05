@@ -44,7 +44,8 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
   
 
 - 🔭 Actualmente estoy trabajando en proyectos personales 
-- 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
+- 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS. Al mismo tiempo, estoy aprendiendo los diferentes
+módelos del Ciclo de Vida del Software y Patrones de Diseño  
 - 🤔 Necesito ayuda en el desarrollo web 
 - 📫 contactame:
 
