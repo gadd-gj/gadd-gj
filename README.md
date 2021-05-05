@@ -6,27 +6,35 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 
 <div>
   <h3>Skills:</h3>
+  
   <div>
     <img src="https://img.shields.io/badge/java-Intermedio-black?style=for-the-badge&logo=java" /> 
   </div>
+  
   <div>
     <img src="https://img.shields.io/badge/javascript-basico-black?style=for-the-badge&logo=javascript" />
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/bootstrap4-basico-black?style=for-the-badge&logo=bootstrap" /> 
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/html5-basico-black?style=for-the-badge&logo=html5" /> 
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/linux-basico-black?style=for-the-badge&logo=linux" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Ubuntu-basico-black?style=for-the-badge&logo=ubuntu" />
-  </div>
+  
   <div>
     <img src='https://img.shields.io/badge/spring_boot-basico-black?style=for-the-badge&logo=spring' />
   </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/bootstrap4-basico-black?style=for-the-badge&logo=bootstrap" /> 
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/html5-basico-black?style=for-the-badge&logo=html5" /> 
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/linux-basico-black?style=for-the-badge&logo=linux" />
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Ubuntu-basico-black?style=for-the-badge&logo=ubuntu" />
+  </div>
+ 
   <div>
     <img src='https://img.shields.io/badge/docker-basico-black?style=for-the-badge&logo=docker' />
   </div>
