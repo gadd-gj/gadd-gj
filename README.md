@@ -1,4 +1,4 @@
-### Hi there 👋, mi nombre es Gaddiel
+### Hola 👋, mi nombre es Gaddiel
 #### Estudiante universitario
 ![Estudiante universitario](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -6,10 +6,10 @@ Actualmente estoy cursando la carrera de Licenciatura en Ingeniería de Software
 
 Skills: JAVA / JAVASCRIPT / HTML / SPRING BOOT
 
-- 🔭 I’m currently working on en proyectos personales 
-- 🌱 I’m currently learning JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
-- 🤔 I’m looking for help with el desarrollo web 
-- 📫 How to reach me: gaddielgomez15@gmail.com 
+- 🔭 Actualmente esoty trabajando en proyectos personales 
+- 🌱 Estoy aprendiendo JavaScript, Java, HTML, Bootstrap 4 y próximamente VueJS 
+- 🤔 Necesito ayuda en el desarrollo web 
+- 📫 contactame: gaddielgomez15@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gadd-gj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gaddiel-gómez-jiménez-b66093196/)  
