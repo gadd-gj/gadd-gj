@@ -43,7 +43,7 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 </div>
   
 
-- 🔭 Actualmente estoy trabajando en proyectos personales 
+- 🔭 Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades
 - 🌱 Estoy aprendiendo JavaScript, Java y próximamente GraphQL. Al mismo tiempo, estoy aprendiendo los diferentes
 módelos del Ciclo de Vida del Software y Patrones de Diseño  
 - 🤔 Necesito ayuda en diseño web 
