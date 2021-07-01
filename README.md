@@ -17,15 +17,7 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
   </div>
   
   <div>
-    <img src="https://img.shields.io/badge/bootstrap4-basico-black?style=for-the-badge&logo=bootstrap" /> 
-  </div>
-  
-  <div>
     <img src="https://img.shields.io/badge/java-Intermedio-black?style=for-the-badge&logo=java" /> 
-  </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/html5-basico-black?style=for-the-badge&logo=html5" /> 
   </div>
   
   <div>
