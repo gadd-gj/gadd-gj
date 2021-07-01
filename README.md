@@ -7,6 +7,9 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
 <div>
   <h3>Skills:</h3>
   
+   <div>
+    <img src="https://img.shields.io/badge/java-Intermedio-black?style=for-the-badge&logo=java" /> 
+  </div>
   
   <div>
     <img src="https://img.shields.io/badge/javascript-basico-black?style=for-the-badge&logo=javascript" />
@@ -15,11 +18,7 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
   <div>
     <img src='https://img.shields.io/badge/spring_boot-basico-black?style=for-the-badge&logo=spring' />
   </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/java-Intermedio-black?style=for-the-badge&logo=java" /> 
-  </div>
-  
+
   <div>
     <img src="https://img.shields.io/badge/linux-basico-black?style=for-the-badge&logo=linux" />
   </div>
