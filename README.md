@@ -9,28 +9,19 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
   
    <div>
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" /> 
-  </div>
   
-  <div>
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
-  </div>
   
-  <div>
     <img src='https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=spring' />
-  </div>
-
-  <div>
+  
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux" />
-  </div>
-  
-  <div>
+
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu" />
-  </div>
  
-  <div>
     <img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker' />
-  </div>
   
+  </div>  
+
 </div>
   
 
