@@ -19,7 +19,6 @@ Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Softw
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu" />
  
     <img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker' />
-  
   </div>  
 
 </div>
