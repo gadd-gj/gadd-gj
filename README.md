@@ -1,8 +1,5 @@
 ### Hola 👋, mi nombre es Gaddiel
-#### Estudiante universitario
-
-
-Actualmente estoy cursando la carrera en la Licenciatura en Ingeniería de Software.
+#### Estudiante de Licenciatura en Ingeniería de Software
 
 <div>
   <h3>Skills:</h3>
