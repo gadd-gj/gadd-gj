@@ -17,7 +17,7 @@
   
 
 - 🔭 Actualmente estoy estudiando y trabajando en proyectos personales para mejorar mis habilidades
-- 🌱 Estoy aprendiendo JavaScript, Java y próximamente GraphQL. Al mismo tiempo, estoy aprendiendo los diferentes
+- 🌱 Estoy aprendiendo JavaScript y Java. Al mismo tiempo, estoy aprendiendo los diferentes
 módelos del Ciclo de Vida del Software y Patrones de Diseño  
 - 🤔 Necesito ayuda en diseño web 
 - 📫 contactame:
