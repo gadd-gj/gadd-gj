@@ -6,7 +6,6 @@
   
    <div>
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" /> 
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
     <img src='https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=spring' />
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux" />
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu" />
