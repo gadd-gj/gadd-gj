@@ -1,5 +1,5 @@
 ### Hola 👋, mi nombre es Gaddiel
-#### Estudiante en Licenciatura en Ingeniería de Software
+#### Licenciado en Ingeniería de Software
 
 <div>
   <h3>Skills:</h3>
@@ -16,8 +16,8 @@
 </div>
   
 
-- 🔭 Actualmente me encuentro cursando el septimo semestre de la carrera de Ing. De Software y trabajando en proyectos personales para mejorar mis habilidades
-- 🌱 Estoy aprendiendo Java (JDK v1.8), Spring Boot y Spring Cloud.
+- 🔭 Recién egresado de la Licenciatura en Ingeniería De Software con conocimientos sobre el ciclo de vida del software, patrones de diseño y modelos y metodologias de software.
+- 🌱 Estoy aprendiendo Java (JDK v1.8), Spring Boot y JavaScript.
 - 🤔 Necesito ayuda en diseño web 
 - 📫 contactame:
 
